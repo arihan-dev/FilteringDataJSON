@@ -15,4 +15,4 @@
 |*No*| *Bab* | *Detail* |
 | 1 | Tugas 1 | Filtering Data |
 
-| Next-Js - Praktikum Pemrograman API |
+| Next.Js - Praktikum Pemrograman API |
